@@ -11,19 +11,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 This project is split into multiple components to make the code modular and reusable.
 
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Components](#components)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Demo
-You can find a live demo of the application [here](#). *(Add the link to the deployed version if available)*
-
 ## Features
 - Add a new todo item
 - Mark todos as complete
@@ -34,4 +21,4 @@ You can find a live demo of the application [here](#). *(Add the link to the dep
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-todo-app.git
+   git clone https://github.com/WilliamCHWong/Todo-list.git
